@@ -1,6 +1,7 @@
 # Directory Structure
 
 `data`: External data used
+
 `notebooks`: Notebooks used
 
 Notebooks structure:
